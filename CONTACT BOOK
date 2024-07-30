@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter import messagebox
-
 tip=Tk()
 tip.title("contact book")
 tip.config(bg="silver")
